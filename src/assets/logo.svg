@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85.087791mm"
+   height="94.075348mm"
+   viewBox="0 0 85.087794 94.075347"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-43.370098,-24.215856)">
+    <g
+       id="g2"
+       transform="matrix(0.42655625,0,0,0.42655625,43.370098,24.215856)">
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path1"
+         cx="99.73806"
+         cy="31.638556"
+         r="31.638556" />
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path2"
+         cx="167.83757"
+         cy="70.955826"
+         r="31.638556" />
+      <circle
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path3"
+         cx="167.83757"
+         cy="149.59035"
+         r="31.638556" />
+      <circle
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path4"
+         cx="99.73806"
+         cy="188.90762"
+         r="31.638556" />
+      <circle
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path5"
+         cx="31.638556"
+         cy="149.59036"
+         r="31.638556" />
+      <circle
+         style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1"
+         id="path6"
+         cx="31.638556"
+         cy="70.955826"
+         r="31.638556" />
+    </g>
+  </g>
+</svg>
